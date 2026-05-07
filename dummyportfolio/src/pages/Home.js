@@ -8,7 +8,7 @@ const Home = () => {
         <div className="hero-content">
           <h1>Welcome to My Portfolio</h1>
           <p className="subtitle">
-            Hi, I'm <span className="highlight">M. Asim</span>, a passionate frontend developer.
+            Hi, I'm <span className="highlight">M. Asim</span>, a passionate MERN developer.
           </p>
           <button className="cta-button">Explore My Work</button>
         </div>
